@@ -5,7 +5,7 @@ const breadLoaf = document.getElementById('bread');
 const watermelonSlice = document.getElementById('watermelon');
 
 sodaPop.addEventListener('click', () => {
-
+    sodaPop.classList.toggle('picked');
 });
 cheeseSlice.addEventListener('click', () => {
 
