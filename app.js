@@ -8,7 +8,7 @@ sodaPop.addEventListener('click', () => {
     sodaPop.classList.toggle('picked');
 });
 cheeseSlice.addEventListener('click', () => {
-
+    cheeseSlice.classList.toggle('picked');
 });
 grapeVine.addEventListener('click', () => {
 
