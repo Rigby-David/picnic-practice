@@ -11,7 +11,7 @@ cheeseSlice.addEventListener('click', () => {
     cheeseSlice.classList.toggle('picked');
 });
 grapeVine.addEventListener('click', () => {
-
+    grapeVine.classList.toggle('picked');
 });
 breadLoaf.addEventListener('click', () => {
 
