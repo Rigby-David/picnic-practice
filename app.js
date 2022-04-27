@@ -14,7 +14,7 @@ grapeVine.addEventListener('click', () => {
     grapeVine.classList.toggle('picked');
 });
 breadLoaf.addEventListener('click', () => {
-
+    breadLoaf.classList.toggle('picked');
 });
 watermelonSlice.addEventListener('click', () => {
 
