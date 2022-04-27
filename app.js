@@ -17,5 +17,5 @@ breadLoaf.addEventListener('click', () => {
     breadLoaf.classList.toggle('picked');
 });
 watermelonSlice.addEventListener('click', () => {
-
+    watermelonSlice.classList.toggle('picked');
 });
